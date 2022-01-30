@@ -256,9 +256,9 @@ async def lego(event):
  else:
 
   if not quew:
-     await event.reply('Please give a text for the Logo.')
+     await event.reply('Please Give A Text For The Logo.')
      return
- pesan = await event.reply('Creating Logo. Please Wait.')
+ pesan = await event.reply('Logo will be ready soon.')
  try:
     text = event.pattern_match.group(1)
     randc = random.choice(LOGO_LINKS)
