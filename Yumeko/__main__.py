@@ -110,7 +110,7 @@ If you want to report any bugs or need any help with setting up Enmu, reach us a
 
 
 
-DONATE_STRING = """ ✌️★ I ᴀᴍ ғʀᴇᴇ ғᴏʀ ᴇᴠᴇʀʏᴏɴᴇ ★✌️"""
+DONATE_STRING = """ ✌️★ I ᴀᴍ ғʀᴇᴇ ғᴏʀ ᴇᴠᴇʀʏᴏɴᴇ why ★✌️"""
 
 IMPORTED = {}
 MIGRATEABLE = []
